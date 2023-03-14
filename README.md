@@ -1,6 +1,12 @@
 # AIGC领域开源应用测评
 
-[跳转到二级标题](#3.AI视频)
+- [1.聊天机器人](#1.聊天机器人)
+  - [1.1ChatGPT](#1.1ChatGPT)
+- [2.AI绘图](#2.AI绘图)
+  - [2.1Stable Diffusion](#2.1Stable Diffusion)
+  - [2.2在线logo设计](#2.2在线logo设计)
+- [3.AI视频](#3.AI视频)
+  - [3.1Quickvid](#3.1Quickvid)
 
 # 微信体验交流群
 
@@ -60,9 +66,9 @@ OpenAI研发的聊天机器人程序,基于Transformer神经网络架构的大�
 
 
 
-# 2. AI绘图
+# 2.AI绘图
 
-## 2.1 AI画图Stable Diffusion
+## 2.1Stable Diffusion
 
 ![image-20230215230318927](./pic/stable.png)
 
@@ -98,7 +104,7 @@ Stable Diffusion 是一种基于文本生成图像的机器学习模型，它是
 通用场景下的AI制图，出图效果取决于模型训练效果+prompt优化效果
 ```
 
-## 2.2 在线logo设计
+## 2.2在线logo设计
 
 ![image-20230215230318927](./pic/logo.png)
 
@@ -136,7 +142,7 @@ https://logo.com/ 是一个免费的在线 logo 制作网站，可以让你在�
 
 # 3.AI视频
 
-## 3.1 Quickvid
+## 3.1Quickvid
 
 ![image-20230215230318927](./pic/qvd.webp)
 
