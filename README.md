@@ -1,12 +1,12 @@
 # AIGC领域开源应用测评
 
-- [1.聊天机器人](#1聊天机器人)
-  - [1.1ChatGPT](#1.1ChatGPT)
-- [2.AI绘图](#2.AI绘图)
-  - [2.1Stable Diffusion](#2.1Stable Diffusion)
-  - [2.2在线logo设计](#2.2在线logo设计)
-- [3.AI视频](#3.AI视频)
-  - [3.1Quickvid](#3.1Quickvid)
+- [1.聊天机器人](#1-聊天机器人)
+  - [1.1ChatGPT](#11-ChatGPT)
+- [2.AI绘图](#2-AI绘图)
+  - [2.1Stable Diffusion](#21-Stable Diffusion)
+  - [2.2在线logo设计](#22-在线logo设计)
+- [3.AI视频](#3-AI视频)
+  - [3.1Quickvid](#31-Quickvid)
 
 # 微信体验交流群
 
